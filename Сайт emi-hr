@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-18T07:29:09.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="B68kIUQvZmV0_owEyWg-" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T07:31:13.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="ysSR5TWTr3u3EAjJeIt0" version="12.2.6" type="github" pages="1">
   <diagram id="jdAZTdlYyzOQlr6wdahx" name="Страница 1">
-    <mxGraphModel dx="2816" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2011" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -321,6 +321,18 @@
         </mxCell>
         <mxCell id="wPLEqZ7Ax41uE-d53M4M-183" value="2020" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1251" y="2127" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wPLEqZ7Ax41uE-d53M4M-187" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1180" y="1830" width="880" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="wPLEqZ7Ax41uE-d53M4M-184" value="ОТДЕЛ ПОДБОРА В РФ&lt;br&gt;&lt;br&gt;&lt;br&gt;тел&lt;br&gt;email" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="wPLEqZ7Ax41uE-d53M4M-187">
+          <mxGeometry width="273.77777777777777" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="wPLEqZ7Ax41uE-d53M4M-185" value="ОТДЕЛ ПОДБОРА В ЧЕХИИ&lt;br&gt;&lt;br&gt;&lt;br&gt;тел&lt;br&gt;email" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="wPLEqZ7Ax41uE-d53M4M-187">
+          <mxGeometry x="303.1111111111111" width="273.77777777777777" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="wPLEqZ7Ax41uE-d53M4M-186" value="???" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="wPLEqZ7Ax41uE-d53M4M-187">
+          <mxGeometry x="606.2222222222222" width="273.77777777777777" height="120" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

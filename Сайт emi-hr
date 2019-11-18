@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T07:08:55.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="fLVu6t9isYC6pA6DY66b" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T07:09:09.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="mK0B8xAAGWHlT2WxU-k7" version="12.2.6" type="github" pages="1">
   <diagram id="jdAZTdlYyzOQlr6wdahx" name="Страница 1">
     <mxGraphModel dx="1173" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="wPLEqZ7Ax41uE-d53M4M-11" value="МИССИЯ КОМПАНИИ" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="100" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="wPLEqZ7Ax41uE-d53M4M-12" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=36;" vertex="1" parent="1">
+        <mxCell id="wPLEqZ7Ax41uE-d53M4M-12" value="logo" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="wPLEqZ7Ax41uE-d53M4M-13" value="Карьера в E.Mi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">

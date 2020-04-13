@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T07:01:43.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="hD6970gjt9Dg4HKk2xJR" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-13T07:03:33.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="72_JJFMpWVDIrJriBta8" version="12.9.11" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1185" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,16 +41,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5-2qtGXvS5xHU3MuhLib-3" value="Сайт" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="390" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5-2qtGXvS5xHU3MuhLib-4" value="Моб. приложение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5-2qtGXvS5xHU3MuhLib-5" value="1C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5-2qtGXvS5xHU3MuhLib-6" value="&lt;div&gt;&lt;span&gt;Как управлять бонусами?&lt;/span&gt;&lt;/div&gt;Как управлять акциями?&lt;br&gt;Как объединить бонусы для всех дистрибьюторов?&lt;br&gt;Как объединить бонусы для всех торговых платформ?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-215" width="320" height="60" as="geometry" />
+          <mxGeometry x="300" y="-80" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5-2qtGXvS5xHU3MuhLib-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="5-2qtGXvS5xHU3MuhLib-8">
           <mxGeometry relative="1" as="geometry">
@@ -90,6 +87,9 @@
         </mxCell>
         <mxCell id="5-2qtGXvS5xHU3MuhLib-9" value="&lt;span&gt;Заказы &lt;br&gt;(данные клиентов, &lt;br&gt;данные заказа)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

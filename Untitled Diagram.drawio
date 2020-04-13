@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T06:49:21.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" version="12.9.11" etag="UA690Uw4NKz7Cqjp8leG" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VjbctowEP0aHmF84ZZHIJDMtCQzIW2fhbXYamSJygJDv74rW45tTGkyTUo6w5Oto/Xe98h2y5/EuxtF1tFcUuAtz6G7ln/d8jzX83y8GGSfI8OBmwOhYtQKlcCC/QQLOhbdMApJTVBLyTVb18FACgGBrmFEKZnWxVaS162uSQgNYBEQ3kS/MaojG4U3KPFbYGFUWHb7V/lOTAphG0kSESrTCuRPW/5ESanzu3g3AW6SV+Qlf272m91nxxQI/ZIH6N1uf/dpEAyGy8/pNqEwv+21XatmS/jGRnyvwiAiSluv9b5IRZKymBOBq3GkY46gi7eJRllbN/QA96RiP6XQpJAIzIIJUI/7tZHSCoyOkJPEFMc804yl8AuUhl0FsrHdgIxBqz2K2N2uTXPRZ3aZlkUbFD0VVQrmXVmQ2EYJnzWXucQbm85s+SUBdb/8btrNczhZAs8fbXk9QWLAS8vrczQwXiq8C3UWYY6wWk77Pzam/JgiLlXLH2VjQPblRvl4by0TppkUFfXoFzs00DRJTMgKVjWLMWFcy8xkD8wiV3tgdprvPFsjpW6TsyzaLPTplqBjzpxxDspWs/A3E5jM7nOYy4CU8P1qxQLMmGPrnbuSbaHqrgM7Eq85dAIZW62cBBDhFIOqTzZn4ikHIq0NOYxM+bxZmqYdqkjaYTIXPD0PXqXJ7ABVRsAWe8zinDbqpgIq/A7Ddl8xgf7lTs8o0cQUCvEErxtsnjbZIqiSNvo+6xmbGZy0r9oeujDsrEWIVtKIaVisMWA0lSK/1idPyQ2aoXaEquNkJmwut8xoyUQNMMOklUhz4k7zw4vn0OvXB7HXHER3eGQQB6+fQ1xWRvE1rOc3WK/BdiDoyJwfuFpizz49Rgx7dozwjPGiBCukNst9rlkDxcPD6gC+lOm0BMYZgBsmlyww9HhQwlfWJJEbFcAfmxkPTKJCOKmxa6eP1g7DZo0VcBzebf1svDDnXzEnTYmihjulUiwxXjbZc6yIyGSIQOJRJ5nU+yBM2j0rk7pO238rKq0zZ4Nc341KD15p3CPvNEepdPgvqbR3odKaYP9Cpeei0kdIEmPnK3696WM0evuA0DVTmDR5mkSLA/HcJNo/K4n+9wx6+DL6MSl0cKHQmuDwQqHnotAH45dzLYXMPuibFLrYJxqQR5wRjZk4yaH+B+HQ4Vk59E0+6N/vFfPqrASJUPkDNBOv/Eb2p78A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-13T06:57:21.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="2OfJC4KMS1qkY3faCyyM" version="12.9.11" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1185" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-1" value="1C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-3" value="Сайт" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-4" value="Моб. приложение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-5" value="1C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-6" value="&lt;div&gt;&lt;span&gt;Как управлять бонусами?&lt;/span&gt;&lt;/div&gt;Как управлять акциями?&lt;br&gt;Как объединить бонусы для всех дистрибьюторов?&lt;br&gt;Как объединить бонусы для всех торговых платформ?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-215" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-8" value="&lt;span&gt;Товары &lt;br&gt;(остатки, цены, &lt;br&gt;торг. предложения)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-9" value="&lt;span&gt;Заказы &lt;br&gt;(данные клиентов, &lt;br&gt;данные заказа)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

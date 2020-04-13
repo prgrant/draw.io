@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-13T07:03:33.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="72_JJFMpWVDIrJriBta8" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-13T07:05:45.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="b0ZU72Oyp_tyv9Go6yNh" version="12.9.11" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1185" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="5-2qtGXvS5xHU3MuhLib-9" value="&lt;span&gt;Заказы &lt;br&gt;(данные клиентов, &lt;br&gt;данные заказа)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5-2qtGXvS5xHU3MuhLib-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="5-2qtGXvS5xHU3MuhLib-33" value="???&lt;br style=&quot;font-size: 12px;&quot;&gt;Бекофис&lt;br style=&quot;font-size: 12px;&quot;&gt;Бекдеск&lt;br style=&quot;font-size: 12px;&quot;&gt;Бекмаркетинг&lt;br style=&quot;font-size: 12px;&quot;&gt;Бексервис" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="180" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
